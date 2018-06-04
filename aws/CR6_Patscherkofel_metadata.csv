@@ -1,0 +1,3 @@
+header,TIMESTAMP,RECORD,BattV_Avg,BattV_Max,BattV_Min,PTemp_C_Avg,SWUpper_Avg,SWLower_Avg,LWUpper_Avg,LWLower_Avg,CNR4TC_Avg,CNR4TK_Avg
+desrciption,date and time,sample number,average battery voltage,maximum battery voltage,minimum battery voltage,Average logger temperature,Average incoming shortwave ,Average outgoing shortwave,Average incoming longwave,Average outgoing longwave,average sensor temperature,average sensor temperature
+units,yyyy-mm-dd hh:mm:ss,,Volts,Volts,Volts,°C,W/m^2,W/m^2,W/m^2,W/m^2,°C,K
