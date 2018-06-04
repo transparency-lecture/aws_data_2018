@@ -30,6 +30,10 @@ from  2018-04-23 12:00  to 6.04.2018 9:00
 *Patscherkofel 1 stayed on natural terrain and Patscherkofel 2 moved to ski slope:*   
 from 6.04.2018 13:00:00 to 2018-05-09 12:52  
 
+- ``CR6_Patscherkofel_1.csv`` contains data from natural terrain
+- ``CR6_Patscherkofel_2.csv`` contains data from moved station to a ski slope
+- ``CR6_Patscherkofel_metadata.csv`` contains information about units and variables
+
 For more information, visit:
 
 https://transparency-lecture.github.io/blog/2018/03/23/patscherkofel-field-work/
