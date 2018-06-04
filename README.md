@@ -15,13 +15,13 @@ Transparency and communication in Earth Sciences lecture, Universität Innsbruck
 
 ## AWS
 
-installed on Patscherkofel ski slope terrain with an altitude 1881m a.s.l.    
+**Installed** on Patscherkofel ski slope terrain with an altitude 1881m a.s.l.    
 coordinates:  N 5231274.6   E 685395.6    (UTM32T, WGS84)  
 slope: 11.24°, aspect: 280°  
 installation: 2018-04-23   
 dismantling:  2018-05-09   
 
-on March 27th: maintenance work due to battery problems  
+*March 27th*: maintenance work due to battery problems  
 from March 28th on, both stations performed well  
 
 *Patscherkofel 1 and 2 on natural terrain:*  
@@ -30,11 +30,17 @@ from  2018-04-23 12:00  to 6.04.2018 9:00
 *Patscherkofel 1 stayed on natural terrain and Patscherkofel 2 moved to ski slope:*   
 from 6.04.2018 13:00:00 to 2018-05-09 12:52  
 
-TODO: link to variable description ...  
+For more information, visit:
+
+https://transparency-lecture.github.io/blog/2018/03/23/patscherkofel-field-work/
+
+https://transparency-lecture.github.io/blog/2018/04/06/patscherkofel-relocation-of-station/
+
+https://transparency-lecture.github.io/blog/2018/06/04/last-fieldtrip/
 
 ## EcoBot
 
-Data collected on 26.04.2018 with an [EcoBot](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4429021/). 
+Data collected on 26.04.2018 with an [EcoBot](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4429021/).
 
 - ``EcoBot_data.csv`` contains the point data
 - ``EcoBot_metadata.csv`` contains information about units and variables
@@ -44,4 +50,3 @@ For more information, visit: https://transparency-lecture.github.io/blog/2018/04
 ## About
 
 For more information, visit: https://transparency-lecture.github.io/
-
