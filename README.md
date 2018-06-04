@@ -18,6 +18,7 @@ Transparency and communication in Earth Sciences lecture, Universität Innsbruck
 
 installed on Patscherkofel ski slope terrain with an altitude 1881m a.s.l.    
 coordinates:  N 5231274.6   E 685395.6    (UTM32T, WGS84)  
+slope: 11.24°, aspect: 280°  
 installation: 2018-04-23   
 dismantling:  2018-05-09   
 
