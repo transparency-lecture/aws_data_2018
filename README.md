@@ -11,7 +11,9 @@ These data are licensed under a [Attribution 4.0 International license (CC BY 4.
 
 When using the data, please refer to:
 
-Transparency and communication in Earth Sciences lecture, Universität Innsbruck, 2018. DOI: http://NNN.NN
+Transparency and communication in Earth Sciences lecture, Universität Innsbruck, 2018. DOI: https://doi.org/10.5281/zenodo.1264686
+
+[![DOI](https://zenodo.org/badge/136020345.svg)](https://zenodo.org/badge/latestdoi/136020345)
 
 ## AWS
 
